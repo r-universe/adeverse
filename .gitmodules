@@ -5,3 +5,6 @@
 [submodule "ade4TkGUI"]
 	path = ade4TkGUI
 	url = https://github.com/adeverse/ade4tkgui
+[submodule "adephylo"]
+	path = adephylo
+	url = https://github.com/adeverse/adephylo
