@@ -2,9 +2,18 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "ade4"]
+	path = ade4
+	url = https://github.com/adeverse/ade4
 [submodule "ade4TkGUI"]
 	path = ade4TkGUI
 	url = https://github.com/adeverse/ade4tkgui
+[submodule "adegraphics"]
+	path = adegraphics
+	url = https://github.com/adeverse/adegraphics
 [submodule "adephylo"]
 	path = adephylo
 	url = https://github.com/adeverse/adephylo
+[submodule "adespatial"]
+	path = adespatial
+	url = https://github.com/adeverse/adespatial
